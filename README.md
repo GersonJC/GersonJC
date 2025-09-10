@@ -1,4 +1,86 @@
-## Hi there 👋
+# 👋 Hola, soy Gerson
+
+### 📌 Científico de Datos en formación
+
+💻 Tecnologías: Python (Pandas, Numpy, Matplotlib), SQL, Power BI, Excel.
+📊 Apasionado por transformar datos en historias que generan valor.
+🚀 Objetivo: crecer como profesional contribuyendo en proyectos.
+
+---
+
+## 🙋 Sobre mí
+
+* 🔎 Interesado en análisis exploratorio, visualización y procesos ETL.
+* 📈 Me gusta convertir datos en **insights accionables**.
+* 🌱 Siempre aprendiendo nuevas herramientas de análisis y automatización.
+
+---
+
+## 🛠️ Habilidades
+
+**Lenguajes y Librerías**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+**Bases de Datos**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=database\&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+**BI y Herramientas**
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## 📂 Proyectos Destacados
+
+### 📈 Proyecto 1 — Análisis de Ventas
+
+🔹 Limpieza, análisis exploratorio y visualización de datos para identificar tendencias de venta por categoría.
+✅ Redujo un **30% el tiempo de preparación** con **Pandas + Python**.
+
+### 🔁 Proyecto 2 — ETL / Migración de Datos
+
+🔹 Migración de datasets relacionales a un modelo analítico listo para BI.
+✅ Logró un **99.9% de integridad en la transferencia** con **SQL + Python**.
+
+---
+
+## 📊 Mis estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GersonJC&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonJC&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GersonJC&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+## 📬 Contacto
+
+* 📧 Email: `tu.email@ejemplo.com`
+* 🔗 [LinkedIn](https://www.linkedin.com/in/gersoncarranza/)
+* 📷 [Instagram](https://www.instagram.com/jota.carranza/)
+
+---
+
+<p align="center"><em>"Cada desafío es una oportunidad para aprender y crecer."</em></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gersoncarranza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jota.carranza/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/GersonJC"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 
 <!--
 **GersonJC/GersonJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
