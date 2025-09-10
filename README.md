@@ -56,7 +56,7 @@
 
 ---
 
-<p align="center"><em>"Cada desafío es una oportunidad para aprender y crecer."</em></p>
+<p align="center"><em>"La risa es eterna, la imaginación no tiene edad y los sueños son para siempre."</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gersoncarranza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
