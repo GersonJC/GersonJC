@@ -40,20 +40,6 @@
 
 ---
 
---## 📂 Proyectos Destacados
-
---### 📈 Proyecto 1 — Análisis de Ventas
-
---🔹 Limpieza, análisis exploratorio y visualización de datos para identificar tendencias de venta por categoría.
---✅ Redujo un **30% el tiempo de preparación** con **Pandas + Python**.
-
---### 🔁 Proyecto 2 — ETL / Migración de Datos
-
---🔹 Migración de datasets relacionales a un modelo analítico listo para BI.
---✅ Logró un **99.9% de integridad en la transferencia** con **SQL + Python**.
-
----
-
 ## 📊 Mis estadísticas
 
 <p align="center">
@@ -67,14 +53,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GersonJC&theme=default&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub streak" />
 </p>
-
----
-
---## 📬 Contacto
-
---* 📧 Email: `tu.email@ejemplo.com`
---* 🔗 [LinkedIn](https://www.linkedin.com/in/gersoncarranza/)
---* 📷 [Instagram](https://www.instagram.com/jota.carranza/)
 
 ---
 
